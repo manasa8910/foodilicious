@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/foodilicious/static/css/main.efb0c068.css",
+    "main.js": "/foodilicious/static/js/main.f6ac6dc4.js",
+    "index.html": "/foodilicious/index.html",
+    "main.efb0c068.css.map": "/foodilicious/static/css/main.efb0c068.css.map",
+    "main.f6ac6dc4.js.map": "/foodilicious/static/js/main.f6ac6dc4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.efb0c068.css",
+    "static/js/main.f6ac6dc4.js"
+  ]
+}
